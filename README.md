@@ -1,6 +1,6 @@
 # Philosophers Project
 
-<img src="philo.png" width="500"/>
+<img src="philo.png" width="1250"/>
 
 
 ## Contents
