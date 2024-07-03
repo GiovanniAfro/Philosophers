@@ -1,5 +1,8 @@
 # Philosophers Project
 
+<img src="philo.png" width="500"/>
+
+
 ## Contents
 
 1. [Introduction](#introduction)
