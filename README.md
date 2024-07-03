@@ -107,5 +107,3 @@ The specific rules for the mandatory part are:
 
 - Submit your work to your assigned git repository. Only the work in the git repository will be graded. If Deepthought is assigned to grade your work, it will be done after your peer-evaluations. If an error happens in any section of your work during Deepthought’s grading, the evaluation will stop.
 
-## Makefile Banner
-
